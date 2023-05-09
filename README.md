@@ -12,4 +12,4 @@ My MVP will allow a user to log-in, choose the event and start adding vendors, v
 
 I’ll do it using Spring, Java, SQL DB, Heroku and (some cloud platform).
 
-This application was generated using JHipster 7.9.3, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.9.3](https://www.jhipster.tech/documentation-archive/v7.9.3).
+
